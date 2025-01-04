@@ -95,9 +95,9 @@ Plots of **best, worst, and average fitness values** over generations are genera
 ## 📈 Figures  
 
 ### 1. Algorithm Flowchart  
-![Algorithm Flowchart](Image/EA.jpg)  
+![Algorithm Flowchart](./Images/EA.jpg)  
 
 ### 2. Cyclic Crossover Process  
-![Cyclic Crossover](Image/Cyclic-Crossover.jpg)  
+![Cyclic Crossover](./Images/Cyclic-Crossover.jpg)  
 
 ---
